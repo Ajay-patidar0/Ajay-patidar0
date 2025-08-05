@@ -5,9 +5,8 @@
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajay-patidarit/) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajaypatidar.it@gmail.com) 
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/ajay-IT/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajay-patidarit/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajaypatidar.it@gmail.com)
 
 ---
 
@@ -29,11 +28,4 @@
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Ajay-patidar0&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://streak-stats.demolab.com/?user=Ajay-patidar0&theme=highcontrast&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay-patidar0&theme=highcontrast&hide_border=false&layout=compact)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ajay-patidar0&label=Profile+Views&color=brightgreen&style=flat" alt="Profile Views" />
-</p>
+![](https://streak-stats.demolab.com/?user=Ajay-patidar0&theme=highcontrast&hide_border=false)
